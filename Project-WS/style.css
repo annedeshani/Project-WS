@@ -1,0 +1,69 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: auto;
+}
+
+.bg {
+    background: url(background.jpg) no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+    background-position: center;
+}
+
+.login-form {
+    position: absolute;
+    top: 20vh;
+    color: black;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px 0px #000;
+    opacity: 1.5;
+}
+.welcome-form {
+    position: absolute;
+    top: 35vh;
+    left:-10vh;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px 0px #000;
+    opacity: 1.5;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 3px;
+    font-size: 15px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    
+    
+}
+
+.foot-col {
+    background-color: rgb(24, 11, 11);
+}
+
+.welcome_home {
+    background: url(background.jpg) no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+    background-position: center;
+}
+
+#scale {
+    width: 1500px;
+    text-align: center;
+    margin-left: center;
+    margin-right: auto;
+    border-radius: 7px;
+    margin-top: -180px;
+}
+
